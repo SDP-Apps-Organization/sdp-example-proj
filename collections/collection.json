@@ -1,0 +1,19 @@
+{
+	"id": "c5f65caa-9e32-6546-ac10-9167d0996723",
+	"name": "Sample Postman Collection",
+	"description": "A sample collection to demonstrate collections as a set of related requests",
+	"hasRequests": true,
+	"requests": [
+		{
+			"id": "ec098f7c-4e22-2fe9-e5c5-26f13016be84",
+			"name": "A simple POST request",
+			"description": "",
+			"method": "GET",
+			"headers": "Content-Type: text/plain",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "Duis posuere augue vel cursus pharetra. In luctus a ex nec pretium...",
+			"url": "https://google.com"
+		}
+	]
+}
