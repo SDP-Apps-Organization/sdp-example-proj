@@ -1,0 +1,6 @@
+version: '2'
+services:
+  sample-app:
+    image: aleckeller13/sdp-example-proj:comp
+    ports:
+    - '8080'
